@@ -10,7 +10,7 @@ Dictate a strategy for your Goalie and Kicker.  Each can "learn" from the oppone
 1. As the Goalie you can move to deflect L/C/R.
 2. As the Kicker, you can shoot (kick the ball) L/C/R.
 
-| Ki/Ke |  L  |  C  |  R  |
+| Kick/Keep |  L  |  C  |  R  |
 |------:|:---:|:---:|:---:|
 |     L | 0.1 | 0.6 | 0.9 |
 |     C | 0.7 | 0.2 | 0.7 |
