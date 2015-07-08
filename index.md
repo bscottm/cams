@@ -28,7 +28,7 @@ world.
 | Mon |          [SQL](warmup/sql/)           | {% include sess_link.md which=4 %} | {% include prac_link.md which=4 %} |   {% include proj_link.md which=4 %}   |
 | Tue |     [Agents in NYC](warmup/abm/)      | {% include sess_link.md which=5 %} | {% include prac_link.md which=5 %} |   {% include proj_link.md which=5 %}   |
 | Wed |             O(n) analysis             | {% include sess_link.md which=6 %} | {% include prac_link.md which=6 %} |   {% include proj_link.md which=6 %}   |
-| Thu |                                       | {% include sess_link.md which=7 %} | {% include prac_link.md which=7 %} |   {% include proj_link.md which=7 %}   |
+| Thu |      [Some Lists](warmup/lists/)      | {% include sess_link.md which=7 %} | {% include prac_link.md which=7 %} |   {% include proj_link.md which=7 %}   |
 | Fri |               Demo Prep               |             Demo Prep              |           Demonstrations           |             Demonstrations             |
 {:.schedule}
 
