@@ -59,6 +59,7 @@ Search for `python dependency management` or `r dependency management`.  What do
    * [with GitHub](https://try.github.com/)
    * [visualization](http://pcottle.github.io/learnGitBranching/)
    * [undoing](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+   * [writing good commit messages](http://chris.beams.io/posts/git-commit/)
    * [daunting book](https://progit.org/)
 
 Another thing to keep in mind: what goes in the repository vs. what stays on your local machine.
