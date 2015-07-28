@@ -1,0 +1,18 @@
+---
+---
+
+ - **Need better planning for when network is down.**  Workshop site continued to be served locally, but many exercises explicitly relied on network access.  In all cases, the relevant files (or a reduced version, in the case of page scraping) for course sessions could have been available.  However, for several project-related activities (*e.g.*, packaging) the tools weren't pre-installed (*e.g.*, `devtools` and co. for `R`).  There were also impacts on attempting to sync remote repositories, share code.  [Try](https://about.gitlab.com/) [GitLab](https://www.howtoforge.com/how-to-run-your-own-git-server-with-gitlabhq-on-ubuntu-14.04)?
+ - **More project diversity.**  The project proposals were largely bio-mathematics.  Largely due to delay in soliciting project proposals, and having to fill in from CABP + TJH portfolio of work.  Also, need to provide better project info (about the science particularly + a bit more formal definition of software problem).  Should be able to rank projects first day + know which ones people are assigned, after having access to reading materials in advance.
+ - **Schedule needs improvement.**  Improve communication of schedule - full details first day, on the workshop site + print outs around AIMS facility.  Adjust schedule - start more immediately after breakfast, shorter warmup.  More breaks in schedule?  Pull faculty talks into day schedule?  Overall content schedule fine, just need better within day schedule.
+ - **More project time.**
+ - **More practice time.**
+ - **Add preliminary review material.**  Particularly, syntax review.  Also, have assignment for syntax review due prior to workshop, with option to work w/ faculty on weekend before?  How to enforce due date?
+ - **More language coverage.**  Alt: discuss concepts more generically?  have language requirement for proposal, prep examples in multiple languages?
+ - **Improved Advertising**.  Better advertising for CAMS (attract more students outside AIMS).  More faculty and more diverse disciplines covered by faculty (i.e. faculty with more diverse backgrounds).
+ - **Improved Application Process**: earlier opening for applications, more structured submission process, require project proposal.  Have actual problem solving requirement; *e.g.*, require a submitting code (in the language proposed for project) to solve some problem.  Replace syntax review with this requirement?  Alt: Gaston suggested looser applications, to avoid excluding people that didn't know code, but could potentially learn.
+ - **Better connection from sessions to project work**.  Some sessions really connected with project support (organization), others less so (algorithms).  Perhaps push numerical component?  Separate into numerical (*i.e.*, for numerically focused results, like diff. eq. solving) vs collection structure (*i.e.*, for problems that are more about searching data, dynamic/recursive programming) sessions?  Also, test driven development interested people, but they had trouble using it for their own projects.
+ - **Git**.  People liked using git, but didn't get to practice / use it enough.
+ - **Workshop site organization**: The website didn’t contain enough reading material (i.e. if a student wasn’t present), was hard to navigate
+ - **Command Line**.  People liked command line approaches, want more practice / direction with that.
+ - **Want a visualization session**.  People really liked when the work connected to a visualization (i.e. Nicky’s cars), and have trouble with that relative to their own science.
+ - **Active practicals very helpful**.

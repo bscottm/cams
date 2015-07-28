@@ -26,6 +26,8 @@ collections:
   sessions:
     output: true
     permalink: :name/session/
+  feedback:
+    output: true
 defaults:
   -
     scope:
